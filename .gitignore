@@ -2,3 +2,6 @@
 ## Vim Swapfiles ##
 *.swp
 
+## Cargo Generated ##
+target
+
