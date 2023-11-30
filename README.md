@@ -33,6 +33,7 @@ Ideas
 References
 ----------
 
+- [Locally Installed Rust Documentation (`rustup doc`)](file:///home/isaac/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/index.html)
 - [Rust Book (The Book)](https://doc.rust-lang.org/book/title-page.html)
 - [FreeRTOS Rust](https://github.com/lobaro/FreeRTOS-rust/tree/master)
 - [Bean RTOS Rust](https://bern-rtos.org/)
