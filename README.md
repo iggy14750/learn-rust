@@ -28,6 +28,7 @@ Ideas
 4. Rust + RTOS + Teensy
 5. Rust + RTOS + Teensy + Audio/DSP
 6. Contribute to In-development ROTS in Rust
+7. WASM...
 
 
 References
